@@ -1,5 +1,6 @@
 /* eslint-disable operator-linebreak */
 /* eslint-disable quotes */
+
 "use strict";
 
 const score = document.querySelector(".game-score");
